@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './redes-sociales.jpeg';
 
-function Main(props) {
+function Main() {
     return (
         <div className="container">
             <div className="row">
@@ -11,7 +11,7 @@ function Main(props) {
 
             <div className="row">
                 <img className="img-fluid rounded mx-auto d-block" src={logo} style={{
-                    width: '60rem'
+                    width: '30rem'
                 }}/>
             </div>
         </div>

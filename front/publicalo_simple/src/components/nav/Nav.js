@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Nav(props) {
+function Nav() {
     return (
         <div className="container mt-2">
             <nav className="navbar navbar-expand-lg navbar-light bg-light">

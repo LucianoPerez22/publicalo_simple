@@ -8,8 +8,7 @@ import reportWebVitals from './reportWebVitals';
 //Bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-//FontAwesome
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 
 
 ReactDOM.render(
