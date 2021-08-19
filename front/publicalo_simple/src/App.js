@@ -1,14 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+
 import {
   BrowserRouter as Router,
-  Route, Switch
+  Route, 
 } from "react-router-dom";
 
 //Componets
-import Header from './components/header/Header';
 import Main from './components/main/Main';
-import Footer from './components/footer/Footer';
 import Publish from './components/publish_facebook/Publish';
 
 function App() {

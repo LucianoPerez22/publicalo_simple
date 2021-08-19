@@ -17,7 +17,7 @@ function Main() {
             <div className="row">
                 <img className="img-fluid rounded mx-auto d-block" src={logo} style={{
                     width: '30rem'
-                }}/>
+                }} alt="Imagen"/>
             </div>
             <div style={{
                 position: 'absolute',
